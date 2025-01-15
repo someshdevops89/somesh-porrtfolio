@@ -8,9 +8,17 @@ const Navbar = () => {
     <nav className="fixed w-full bg-black border-b border-gray-800 z-50">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
+            
           <div className="flex-shrink-0">
-            <span className="text-2xl font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
+            
+           
+            <span className="text-2xl flex  font-bold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
+            <div className='w-10 h-10 rounded-full overflow-hidden '>
+            <img src="https://media.licdn.com/dms/image/v2/D4E03AQEHlY5KYUUjtA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1723561454581?e=1742428800&v=beta&t=Hps9D2PDTlIOelzzaQRaau6RgRU7SMj3FUkP5V_XJjg" alt="" />
+            </div>
+              <span className='mt-2 ml-2'>
               Somesh Soni
+              </span>
             </span>
           </div>
           
