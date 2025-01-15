@@ -121,7 +121,7 @@ const Hero = () => {
             variants={itemVariants}
             className="mt-6 max-w-md mx-auto text-base text-gray-400 sm:text-lg md:mt-8 md:text-xl md:max-w-3xl"
           >
-            Transforming ideas into scalable solutions with modern DevOps practices
+            Transforming ideas into scalable solutions with modern DevOps practices,Aws
             and full-stack development. Currently enhancing my skills at Unified Mentor.
           </motion.p>
 
